@@ -39,11 +39,15 @@
 ![C++](https://img.shields.io/badge/-c++-0D1117?style=for-the-badge&logo=c++&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
+<!--Cobrinha-->
+<p align="center">
+  <img src="https://github.com/thaynacota/thaynacota/blob/output/github-snake-dark.svg" alt="snake gif" />
+</p>
+
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=thaynacota&repo=thaynacota&countColorcountColor&countColor=%237B1E7B"/>
 <br></div>
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF4F96&height=120&section=footer"/>
 
