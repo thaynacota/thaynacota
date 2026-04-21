@@ -81,7 +81,7 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=thaynacota&repo=thaynacota&countColorcountColor&countColor=%237B1E7B"/>
+<img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=thaynacota&repo=thaynacota&countColorcountColor&countColor=%23E4405F"/>
 <br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF4F96&height=120&section=footer"/>
