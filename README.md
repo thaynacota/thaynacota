@@ -2,10 +2,14 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF4F96&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Thayná+Cota;I+study+Computer+Science+at+Puc+Minas;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<!--<div align="center">  
+<div align="center">
+  <img src="https://i.pinimg.com/736x/c7/6d/f4/c76df40aeb819878fca5289fa5efbf98.jpg" width="800px" />
+</div>
+
+<div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=thaynacota&show_icons=true&count_private=true&hide_border=true&title_color=FF4F96&icon_color=FF4F96&text_color=c9d1d9&bg_color=0d1117" alt="Thayná Cota github stats"/> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaynacota&layout=compact&hide_border=true&title_color=FF4F96&text_color=00bfbf&bg_color=0d1117" />
-</div>-->
+</div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thaynacota&bg_color=0d1117&color=FF237D&line=FF4F96&point=FF237D&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
