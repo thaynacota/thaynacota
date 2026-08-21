@@ -65,6 +65,65 @@
 
 ---
 
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+  <tr>
+    <td width="120" align="center">
+      <!-- TODO: coloque aqui o ícone/logo do site do MediSync -->
+      <img src="https://via.placeholder.com/90x90/0D1117/FF4F96?text=icon" width="90" />
+    </td>
+    <td valign="middle">
+      <h3>🩺 MediSync</h3>
+      <p>
+        <!-- TODO: coloque aqui a descrição do MediSync -->
+        Descrição do projeto aqui...
+      </p>
+      <p>
+        <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Live%20Demo-FF4F96?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+        <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Repository-0D1117?style=for-the-badge&logo=github&logoColor=%23FF4F96&labelColor=0D1117" /></a>
+      </p>
+      <p>
+        <!-- TODO: ajuste as badges de tecnologias usadas -->
+        <img src="https://img.shields.io/badge/-Tech-FF4F96?style=flat-square&labelColor=0D1117" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<table>
+  <tr>
+    <td width="120" align="center">
+      <!-- TODO: coloque aqui o ícone/logo do site do ScamEye -->
+      <img src="https://via.placeholder.com/90x90/0D1117/FF4F96?text=icon" width="90" />
+    </td>
+    <td valign="middle">
+      <h3>🔍 ScamEye</h3>
+      <p>
+        <!-- TODO: coloque aqui a descrição do ScamEye -->
+        Descrição do projeto aqui...
+      </p>
+      <p>
+        <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Live%20Demo-FF4F96?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+        <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Repository-0D1117?style=for-the-badge&logo=github&logoColor=%23FF4F96&labelColor=0D1117" /></a>
+      </p>
+      <p>
+        <!-- TODO: ajuste as badges de tecnologias usadas -->
+        <img src="https://img.shields.io/badge/-Tech-FF4F96?style=flat-square&labelColor=0D1117" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+
+---
+
 <!--Cobrinha-->
 <p align="center">
   <img src="https://github.com/thaynacota/thaynacota/blob/output/github-snake-dark.svg" alt="snake gif" />
@@ -89,4 +148,3 @@
 <br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF4F96&height=120&section=footer"/>
-
