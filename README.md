@@ -73,21 +73,21 @@
   <tr>
     <td width="120" align="center">
       <!-- TODO: coloque aqui o ícone/logo do site do MediSync -->
-      <img src="https://via.placeholder.com/90x90/0D1117/FF4F96?text=icon" width="90" />
+      <img width="90" height="90" alt="Image" src="https://github.com/user-attachments/assets/994e71c4-da3b-4faa-89a6-98bff613ed27" />
     </td>
     <td valign="middle">
       <h3>🩺 MediSync</h3>
       <p>
-        <!-- TODO: coloque aqui a descrição do MediSync -->
-        Descrição do projeto aqui...
+        Dispensador inteligente de medicamentos integrado a um ecossistema de monitoramento para cuidadores — hardware ESP32, app em React Native e API em Node.js. Projeto do Hackathon PUC Minas 2026. Atuei como desenvolvedora web (landing page), designer e roteirista do pitch.
       </p>
       <p>
-        <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Live%20Demo-FF4F96?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-        <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Repository-0D1117?style=for-the-badge&logo=github&logoColor=%23FF4F96&labelColor=0D1117" /></a>
+        <a href="https://hackathon-medi-sync-egq36gb65-medi-sync1.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Live%20Demo-FF4F96?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+        <a href="https://github.com/LuisaCampanhaH/Hackathon-MediSync" target="_blank"><img src="https://img.shields.io/badge/-Repository-0D1117?style=for-the-badge&logo=github&logoColor=%23FF4F96&labelColor=0D1117" /></a>
       </p>
       <p>
-        <!-- TODO: ajuste as badges de tecnologias usadas -->
-        <img src="https://img.shields.io/badge/-Tech-FF4F96?style=flat-square&labelColor=0D1117" />
+        <img src="https://img.shields.io/badge/Hardware-ESP32-333333?style=flat-square&logo=espressif&logoColor=white" />
+        <img src="https://img.shields.io/badge/App-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=white&labelColor=333333" />
+        <img src="https://img.shields.io/badge/API-Node.js-80BD01?style=flat-square&logo=node.js&logoColor=80BD01" />
       </p>
     </td>
   </tr>
@@ -98,22 +98,23 @@
 <table>
   <tr>
     <td width="120" align="center">
-      <!-- TODO: coloque aqui o ícone/logo do site do ScamEye -->
-      <img src="https://via.placeholder.com/90x90/0D1117/FF4F96?text=icon" width="90" />
+      <img width="80" height="90" alt="Image" src="https://github.com/user-attachments/assets/7a54502e-d88e-4b95-b94f-42880950a149" />
     </td>
     <td valign="middle">
       <h3>🔍 ScamEye</h3>
       <p>
-        <!-- TODO: coloque aqui a descrição do ScamEye -->
-        Descrição do projeto aqui...
+        Plataforma de Detecção e Compartilhamento de Golpes Digitais — Plataforma colaborativa desenvolvida para compartilhamento de relatos sobre golpes digitais integrada a uma solução de IA para análise de links, imagens e páginas suspeitas e classificação de indícios de fraude e uma aba de notícias para se manter atualizado dos golpes atuais. Atuei como desenvolvedora web.
       </p>
       <p>
         <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Live%20Demo-FF4F96?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-        <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Repository-0D1117?style=for-the-badge&logo=github&logoColor=%23FF4F96&labelColor=0D1117" /></a>
+        <a href="https://github.com/ICEI-PUC-Minas-CC-TI/plmg-cc-ti2-2025-2-g18-scameye" target="_blank"><img src="https://img.shields.io/badge/-Repository-0D1117?style=for-the-badge&logo=github&logoColor=%23FF4F96&labelColor=0D1117" /></a>
       </p>
       <p>
-        <!-- TODO: ajuste as badges de tecnologias usadas -->
-        <img src="https://img.shields.io/badge/-Tech-FF4F96?style=flat-square&labelColor=0D1117" />
+        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
       </p>
     </td>
   </tr>
