@@ -106,7 +106,7 @@
         Plataforma de Detecção e Compartilhamento de Golpes Digitais — Plataforma colaborativa desenvolvida para compartilhamento de relatos sobre golpes digitais integrada a uma solução de IA para análise de links, imagens e páginas suspeitas e classificação de indícios de fraude e uma aba de notícias para se manter atualizado dos golpes atuais. Atuei como desenvolvedora web.
       </p>
       <p>
-        <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Live%20Demo-FF4F96?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+        <a href="https://scameye-466y.onrender.com" target="_blank"><img src="https://img.shields.io/badge/-Live%20Demo-FF4F96?style=for-the-badge&logo=vercel&logoColor=white" /></a>
         <a href="https://github.com/ICEI-PUC-Minas-CC-TI/plmg-cc-ti2-2025-2-g18-scameye" target="_blank"><img src="https://img.shields.io/badge/-Repository-0D1117?style=for-the-badge&logo=github&logoColor=%23FF4F96&labelColor=0D1117" /></a>
       </p>
       <p>
