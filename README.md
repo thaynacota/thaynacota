@@ -13,14 +13,6 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thaynacota&bg_color=0d1117&color=FF237D&line=FF4F96&point=FF237D&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<!--<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thaynacota&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>-->
-
-<!--<div align="center">  
-<a href="https://www.instagram.com/thayna_cota/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-</div>-->
-
 ---
 
 ## 🌸 About Me
@@ -72,7 +64,6 @@
 <table>
   <tr>
     <td width="120" align="center">
-      <!-- TODO: coloque aqui o ícone/logo do site do MediSync -->
       <img width="90" height="90" alt="Image" src="https://github.com/user-attachments/assets/994e71c4-da3b-4faa-89a6-98bff613ed27" />
     </td>
     <td valign="middle">
